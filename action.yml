@@ -1,0 +1,10 @@
+name: 'Test Workflow'
+description: 'First test on github workflow'
+author: 'Kelechi Ugwu <kcugwu@gmail.com>'
+
+runs: 
+    using: 'node12'
+    main: 'index.js'
+
+
+ 
